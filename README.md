@@ -1,5 +1,6 @@
 ### Hi there, I'm Pavel! <br>
-💼 Tech Support Lead -> loading.. -> IOS Developer
+💼 Tech Support Lead -> loading.. -> IOS Developer <br>
+🔵 Saint-Petersburg <br>
 
 Contacts:<br>
 [![Telegram](https://img.shields.io/badge/Telegram-Pavel-2D9EE9)](https://t.me/chulep)
