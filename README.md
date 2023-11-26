@@ -1,5 +1,5 @@
 ### Hi there, I'm Pavel! <br>
-💼 Tech Support Lead / IOS Developer <br>
+💼 Tech Support Lead 
 🔵 Saint-Petersburg <br>
 
 Contacts:<br>
