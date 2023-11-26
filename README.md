@@ -1,5 +1,5 @@
 ### Hi there, I'm Pavel! <br>
-💼 Tech Support Lead 
+💼 Tech Support Lead <br>
 🔵 Saint-Petersburg <br>
 
 Contacts:<br>
